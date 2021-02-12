@@ -1,0 +1,37 @@
+/* Polices */
+/*Raleway*/@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+/*/Police*/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+    margin-right: 130px;
+    
+}
+
+li {
+    float: right;
+    
+    
+}
+
+li a {
+    display: block;
+    color: #f5f5f5;
+    text-align: right;
+    padding: 20px 10px;
+    text-decoration: none;
+    font-family: Raleway;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    
+    
+}
+
+li a:hover {
+    background-color: gray;
+}
